@@ -77,7 +77,7 @@ You can monitor the logs of build and app in Rehost Dashboard.
 ```
 rh app hot-reload
 ```
-Edit `/index.html` file and save to see the changes go live instantly.
+Edit `/routes/home/handler.js` file and save to see the changes go live instantly.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
